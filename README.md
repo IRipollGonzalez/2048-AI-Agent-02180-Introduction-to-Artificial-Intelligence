@@ -1,4 +1,4 @@
-# 2048-AI-Agent-02180
+# 2048-AI-Agent
 
 Artificial Intelligence agents for the 2048 board game, developed for the DTU course **02180 – Introduction to Artificial Intelligence**.  
 The project implements a custom 2048 game engine together with two AI players: **Minimax with alpha–beta pruning** and **Expectimax**.  
